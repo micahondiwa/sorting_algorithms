@@ -32,6 +32,15 @@ C - Sorting algorithms & Big O
 - 3. in the worst case
 
 
+The formats: 
+- ```O(1)```
+- ```O(n)```
+- ```O(n!)```
+- n square -> ```O(n^2)```
+- log(n) -> ```O(log(n))```
+- n * log(n) -> ```O(nlog(n))```
+- n + k -> ```O(n+k)```
+- …
 
 
 
