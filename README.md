@@ -21,7 +21,7 @@ C - Sorting algorithms & Big O
 |[102-counting_sort.c](102-counting_sort.c)|Write a function that sorts an array of integers in ascending order using the [Counting sort](https://intranet.alxswe.com/rltoken/ChcoDSCqnJHGC-qrSPEGHQ) algorithm.|
 |[103-merge_sort.c](103-merge_sort.c)|Write a function that sorts an array of integers in ascending order using the [Merge sort](https://intranet.alxswe.com/rltoken/8sZ3nAhd_YLNzHCgNbbf8A) algorithm.|
 |[104-heap_sort.c](104-heap_sort.c)|Write a function that sorts an array of integers in ascending order using the [Heap sort](https://intranet.alxswe.com/rltoken/YKYRdSdomaVkNrtNv1KS6Q) algorithm.|
-|[105-radix_sort.c](105-radix_sort.c)|Wr.|ite a function that sorts an array of integers in ascending order using the [Radix sort](https://intranet.alxswe.com/rltoken/pBsj4j_AF_mJAgNZWmX3VQ) algorithm.|
+|[105-radix_sort.c](105-radix_sort.c)|Write a function that sorts an array of integers in ascending order using the [Radix sort](https://intranet.alxswe.com/rltoken/pBsj4j_AF_mJAgNZWmX3VQ) algorithm.|
 |[106-bitonic_sort.c](106-bitonic_sort.c)|Write a function that sorts an array of integers in ascending order using the [Bitonic sort](https://intranet.alxswe.com/rltoken/N-bjAbxm5yr4DoeIDz5lLw) algorithm.|
 
 
