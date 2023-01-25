@@ -12,3 +12,4 @@ C - Sorting algorithms & Big O
 
 | Filename  | Description |
 | ---  | --- |
+|[0-bubble_sort.c](0-bubble_sort.c)|Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://intranet.alxswe.com/rltoken/awhP8BhtkGi-lwmMc2-KAw) algorithm|
